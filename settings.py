@@ -6,7 +6,7 @@ SESSION_CONFIGS = [
         name='survey',
         display_name='survey',
         num_demo_participants=4,
-        app_sequence=['survey'],
+        app_sequence=['survey', 'public_goods_simple', 'trust'],
     ),
 ]
 
