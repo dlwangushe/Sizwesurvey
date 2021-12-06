@@ -14,7 +14,7 @@ tripled. The trust game was first proposed by
 
 class Constants(BaseConstants):
     name_in_url = 'trust'
-    players_per_group = 2
+    players_per_group = 3
     num_rounds = 1
     instructions_template = 'trust/instructions.html'
     # Initial amount allocated to each player
